@@ -1,0 +1,263 @@
+1
+00:00:00,000 --> 00:00:02,002
+¡Escúchate!
+
+2
+00:00:02,669 --> 00:00:04,254
+Hablas como si pudieras comprarte un auto de lujo cuando quieras.
+
+3
+00:00:04,254 --> 00:00:06,047
+en cualquier momento.
+
+4
+00:00:06,798 --> 00:00:08,341
+Ted, un consejo.
+
+5
+00:00:08,633 --> 00:00:10,385
+Revisa tu cuenta bancaria
+
+6
+00:00:10,385 --> 00:00:11,511
+antes de presumir.
+
+7
+00:00:12,429 --> 00:00:13,638
+¡Basta, chicos!
+
+8
+00:00:14,472 --> 00:00:16,516
+Hoy es el cumpleaños de tu abuelo.
+
+9
+00:00:16,683 --> 00:00:18,727
+No es un circo.
+
+10
+00:00:19,352 --> 00:00:20,353
+Vamos adentro
+
+11
+00:00:20,353 --> 00:00:21,312
+antes de que empeore.
+
+12
+00:00:21,479 --> 00:00:22,272
+Lo siento.
+
+13
+00:00:22,480 --> 00:00:22,981
+Vámonos.
+
+14
+00:00:28,695 --> 00:00:29,320
+Familia.
+
+15
+00:00:30,488 --> 00:00:31,364
+Hay que quererlos.
+
+16
+00:00:36,119 --> 00:00:36,745
+Ethan.
+
+17
+00:00:37,203 --> 00:00:37,829
+Sofía.
+
+18
+00:00:39,164 --> 00:00:39,831
+Allen.
+
+19
+00:00:43,418 --> 00:00:44,169
+¡Mi hijo!
+
+20
+00:00:45,503 --> 00:00:46,671
+¡Por fin llegaste!
+
+21
+00:00:50,091 --> 00:00:50,925
+Lo siento.
+
+22
+00:00:51,509 --> 00:00:53,094
+Debería haber vuelto a casa mucho antes.
+
+23
+00:00:53,386 --> 00:00:54,095
+Está bien.
+
+24
+00:00:54,512 --> 00:00:55,346
+Estás aquí.
+
+25
+00:00:55,346 --> 00:00:56,723
+Eso es todo, viniste aquí.
+
+26
+00:00:57,182 --> 00:00:58,558
+¿Qué pasa con tanta emoción?
+
+27
+00:01:00,060 --> 00:01:01,227
+Ha estado fuera durante años
+
+28
+00:01:01,519 --> 00:01:03,313
+y vuelve sin nada que mostrar.
+
+29
+00:01:04,564 --> 00:01:06,691
+No me importa si es rico o no, Sofía.
+
+30
+00:01:08,151 --> 00:01:09,444
+Está sano, está a salvo.
+
+31
+00:01:10,487 --> 00:01:11,446
+Eso es lo que importa.
+
+32
+00:01:12,238 --> 00:01:14,908
+Ah, tu salud está bien y todo.
+
+33
+00:01:16,117 --> 00:01:17,869
+Pero el dinero es lo que realmente importa aquí.
+
+34
+00:01:19,287 --> 00:01:19,954
+Sabes, mi hijo
+
+35
+00:01:19,954 --> 00:01:22,082
+Allen ya es gerente de seguridad
+
+36
+00:01:22,082 --> 00:01:23,083
+de los Caballeros,
+
+37
+00:01:23,083 --> 00:01:24,751
+con cuatrocientos mil al año.
+
+38
+00:01:25,668 --> 00:01:27,212
+¡Cuatrocientos mil!
+
+39
+00:01:27,337 --> 00:01:28,004
+Eso es más de lo
+
+40
+00:01:28,004 --> 00:01:29,964
+que ustedes dos verán en su vida.
+
+41
+00:01:31,174 --> 00:01:33,051
+Sabes, deberías pedirle a Allen
+
+42
+00:01:33,885 --> 00:01:35,011
+que le dé un trabajo a Ted.
+
+43
+00:01:35,386 --> 00:01:36,513
+Quiero decir, a menos que
+
+44
+00:01:36,513 --> 00:01:38,932
+quieras ser pobre como tú.
+
+45
+00:01:41,726 --> 00:01:42,352
+Allen,
+
+46
+00:01:43,061 --> 00:01:44,395
+¿podrías realmente conseguirle un trabajo a Ted?
+
+47
+00:01:45,897 --> 00:01:46,981
+Bueno, eh...
+
+48
+00:01:47,732 --> 00:01:49,442
+Técnicamente, alguien como él
+
+49
+00:01:49,609 --> 00:01:51,736
+no merece un puesto con los Caballeros, pero
+
+50
+00:01:52,570 --> 00:01:56,533
+si se porta bien, podría encontrarle un trabajo de conserje.
+
+51
+00:01:57,117 --> 00:01:58,243
+¿Un trabajo de conserje?
+
+52
+00:01:59,410 --> 00:02:01,746
+¿Eso es todo lo que puedes hacer, encontrarle a Ted un trabajo de conserje?
+
+53
+00:02:03,206 --> 00:02:04,040
+Deberías estar agradecido
+
+54
+00:02:04,040 --> 00:02:05,959
+de que Allen le esté ofreciendo eso.
+
+55
+00:02:07,168 --> 00:02:08,503
+¿Sabes cuánta gente
+
+56
+00:02:08,503 --> 00:02:10,296
+mataría por trabajar para los Caballeros ahora?
+
+57
+00:02:11,381 --> 00:02:12,298
+No lo arruines.
+
+58
+00:02:12,507 --> 00:02:13,258
+Sí, tienes razón.
+
+59
+00:02:13,716 --> 00:02:14,717
+Conmigo al mando,
+
+60
+00:02:15,051 --> 00:02:16,219
+incluso limpiar baños
+
+61
+00:02:16,219 --> 00:02:17,345
+paga mejor que
+
+62
+00:02:17,887 --> 00:02:19,139
+lo que está haciendo ahora.
+
+63
+00:02:19,514 --> 00:02:20,140
+No lo sé.
+
+64
+00:02:21,182 --> 00:02:23,059
+Dime, Allen.
+
+65
+00:02:23,977 --> 00:02:25,478
+¿Cuánto paga este trabajo de conserje?
+
+66
+00:02:25,478 --> 00:02:27,856
+¿Es más de dos millones al año?

@@ -1,0 +1,37 @@
+# ============================================================
+#  SRT Translation Pipeline — Local Model Configuration
+# ============================================================
+
+# --- Language pair ---
+source_language: "English"
+target_language: "Spanish"
+
+# --- Local model settings ---
+model_path: "/home/coder/models/Llama-3.3-70B-Instruct"
+device_map: "auto"   # transformers device map, e.g. "auto", "cpu"
+
+# --- Translation quality ---
+temperature: 0.1
+max_tokens: 4096
+retries: 3
+
+# --- Batching ---
+batch_size: 30
+max_chars_per_batch: 3000
+context_overlap: 2
+scene_break_gap_ms: 3000
+
+# --- Style / content requirements ---
+formality: "neutral"   # neutral | formal | informal
+style_notes: ""
+glossary:
+  # "NFL": "NFL"
+
+# --- Output settings ---
+output_suffix: "_es"
+output_dir: null
+preserve_formatting: true
+
+# --- Glossary Excel ---
+# Path to the 术语表&画面字.xlsx file. Set to null to disable.
+glossary_xlsx: "术语表&画面字.xlsx"

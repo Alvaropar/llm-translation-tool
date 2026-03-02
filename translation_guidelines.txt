@@ -1,0 +1,130 @@
+**Short Drama Subtitle Translation Project Style Guide (Spanish)**
+**Scope:** Chinese/English to Latin American Spanish subtitle translation projects for short dramas.
+
+**1. General Requirements: Accuracy & Natural Flow**
+    (1) Translation must be done while watching the video, not just reading the text. Ensure the translated dialogue does not deviate from the plot and on-screen action.
+        -Example:
+        | Line | Incorrect Translation | Correct Translation |
+        | :--- | :--- | :--- |
+        | (Male lead asking the bodyguard standing next to him for his phone) 手机给我。 | Tráeme el movil. | Dame tu móvil. |
+        | (Speaking to the female lead) 你先自己呆一会儿。 | Quédate solito un rato. | Quédate solita un rato. |
+    (2) The translation must match the character's emotions and the usage scenario, ensuring the tone and core meaning of the line are accurately conveyed.
+        -Example:
+        | Line | Translation 1 | Translation 2 |
+        | :--- | :--- | :--- |
+        | (You think you can apply for this job?) 别费劲了。 | No te esfuerces. | No pierdas el tiempo. |
+    (3) Localize the translation during the process to ensure it is colloquial and concise. Avoid mechanical literal translation.
+        -Example:
+        | Original | Translation 1 | Translation 2 |
+        | :--- | :--- | :--- |
+        | 我们哪里说错了吗？ | ¿Qué parte de lo que dijimos está mal? | ¿Qué dijimos mal? |
+    (4) While paraphrasing or simplifying is necessary, try to ensure the core semantic elements are complete, maintain the original tone and emotion, and avoid unnecessary weakening of the tone.
+        -Example:
+        | Original | Translation 1 | Translation 2 |
+        | :--- | :--- | :--- |
+        | You'll receive a BIG discount on… | Te haré un descuento en... | Te haré un gran descuento en... |
+    (5) Translation of idioms and slang should also avoid word-for-word literalism. Try to find the closest equivalent expression in Spanish. If no fixed expression exists, the core meaning can be preserved through paraphrasing.
+        -Example:
+        | Line | Translation 1 | Translation 2 |
+        | :--- | :--- | :--- |
+        | 只学了一些花拳绣腿。 | Solo aprendí golpes floridos pero inútiles. | Solo aprendí unos cuantos movimientos inútiles. |
+    (6) Pay attention to word order and contextual relationships during translation. Supplement missing elements from the original text where necessary, and make appropriate additions, omissions, or splits. Ensure the structure and logic are sound. Avoid simply translating sentence by sentence, word for word.
+        -Example:
+        | Line | Translation 1 | Translation 2 |
+        | :--- | :--- | :--- |
+        | 就你这个白斩鸡的身材（能拿我怎么样？），我可是徒手杀死过一头野猪的人。 | Pero con tu físico de un flaco, yo una vez maté a un jabalí con mis propias manos. | ¿Pero qué podrás hacer con ese cuerpecito? Yo una vez maté a un jabalí con mis propias manos. |
+    (7) Use current standard/common grammar and expressions as much as possible. Avoid old-fashioned spellings, overly regionalized usage, or controversial expressions.
+        -Example: Tú solo le atrapaste con un hijo. → Tú solo lo atrapaste con un hijo (leísmo)
+        sólo, éste → solo, este (old accent marks)
+
+**2. Regarding Subtitles and Character Count:**
+    (1) Do not manually insert line breaks within a single subtitle line. The system will handle this automatically.
+    (2) The system's fixed maximum is 28 characters (including spaces) per line. To prevent a line from being too long and occupying 3 or more lines, keep the character count as concise as possible without compromising meaning. If simplification proves difficult:
+        ① Consider moving part of the translation to the preceding or following subtitle line.
+        ② If the timeline is long enough, consider splitting the line into two. Clearly note the location of the split and the method used in the submitted file.
+    (3) Line breaks within a subtitle should avoid splitting fixed phrases and disrupting semantic coherence.
+    (4) If two dialogues occur simultaneously within the same time frame, they can be placed on two lines, each prefixed with a hyphen (-) for distinction.
+    (5) Characters per second: If a subtitle line has a duration of only 1 second, the translated text should be as short as possible (ideally under 10 characters). If it cannot be shortened without harming the expression, consider merging it appropriately with the next subtitle line.
+
+**3. Subtitle Formatting Requirements:**
+    (1) Do not modify the subtitle format. Translate according to the original subtitle format. There must be a blank line between each subtitle segment. Do not add or remove blank lines.
+    (2) Generally, do not modify the numbers preceding each subtitle segment or the timings. However, if issues like missing subtitles or timing errors are found, they must be corrected. Clearly note the location of the issue, the specific problem, and the correction made in the submitted file.
+        -Example:
+        | Original | Translation | Issue | Episode | Start-End Timecodes |
+        | :--- | :--- | :--- | :--- | :--- |
+        | None | acapara más poder e influencia | Missing subtitle, original line was "把权势地位越占越多", handled. | 7 | 00:00:23,520- 00:00:26,053 |
+    (3) Do not modify the file format or file names. Returned subtitle files for each episode must be named sequentially using numbers.
+
+**4. Regarding Deliverables:**
+    (1) Deliverables should include the following: Translated subtitle SRT file, terminology glossary, on-screen text translation (can be in the same Excel file as the glossary), drama title, main character names, and synopsis.
+    (2) Contents of the terminology glossary should be as detailed in section 11-1.
+    (3) On-screen text includes: Text added during post-production (graphics), incoming calls on mobile phones, received text messages, message content, important document titles & close-up content, background slogans related to the plot, building names, etc. However, if the information content matches the dialogue (e.g., a character reads out an SMS), it can be omitted.
+    (4) For on-screen text translations, names and character introductions should be separated by a line break, with the second line starting with a capital letter.
+        -Example:
+        | Original | Incorrect Example | Correct Example |
+        | :--- | :--- | :--- |
+        | 江伊一 江家千金 | Irene Gómez, hija de la familia Gómez | Irene Gómez <br> Hija de la familia Gómez |
+
+**5. Handling Errors in the Source Text:**
+    During translation, if issues like inconsistencies or contradictions arise in the source text, they can be standardized based on the context. Clearly note the location of the issue, the specific problem, and the correction made in the submitted file.
+    -Example:
+    | Original | Translation | Issue | Episode | Timecodes |
+    | :--- | :--- | :--- | :--- | :--- |
+    | 偷盗5000万韩元 | de robar 4 mil. | Previous text said 5 million, unified with previous text. | 56 | 00:00:39,005 --> 00:00:40,306 |
+
+**6. Handling Personal Pronouns:**
+    (1) Always use "ustedes" for the second-person plural.
+    (2) Use "tú" or "usted" for the second-person singular based on context. Generally, use "tú" for close relationships and "usted" for strangers or hierarchical situations.
+
+**7. Handling Currency Units:**
+    (1) Uniformly convert modern currency units to US Dollars. Exact amounts are not necessary; rounding to larger whole units is acceptable.
+        -Example: 2000万人民币 → Tres millones de dólares
+    (2) For ancient currency / fictional currencies in fantasy settings, translate the original unit name without converting to dollars.
+        -Example: 1两白银 → 1 tael de plata; 10万联盟币 → 100 mil créditos
+
+**8. Translating Character Names:**
+    (1) All Chinese names should be localized into Spanish-style names. Prioritize choosing Spanish names with similar meanings or pronunciations. Avoid being overly fanciful.
+    (2) If an English name is present, it can be translated into a phonetically similar Spanish name.
+
+**9. Translating Place Names:**
+    (1) If the original text uses a fictional place name (like 江城 - River City), create a Spanish place name based on the meaning of the original. Do not use Pinyin transliteration.
+        -Example: 江城 → Ciudad de Río, Rioclaro, ...
+    (2) In Chinese dramas, if the original text uses a real place name, create a fictional name instead. If the original fictional name contains overly obvious derogatory terms (like 倭寇 - Japanese pirates, 阿三 - derogatory for Indians), also create a new fictional name.
+    (3) If the original text names cities with letters (e.g., City A, City B), also create Spanish place names based on those letters.
+    (4) For English dramas, the common Spanish name for the original English place name can be used directly.
+
+**10. Translating Other Proper Nouns:**
+    (1) Well-known luxury brands (e.g., Rolls-Royce, Rolex, Chanel) can be handled vaguely, translating them as luxury cars, luxury watches, designer bags, etc.
+    (2) Company/Group names should be translated based on the meaning of the Chinese name.
+    (3) Dish names can generally be handled vaguely, avoiding replacement with dishes from Spanish-speaking cultures. If a specific dish is mentioned multiple times and is important to the plot, a concise, meaning-based translation is acceptable.
+        -Example:
+        | Dish Name | Incorrect Example | Correct Example |
+        | :--- | :--- | :--- |
+        | 泡菜汤 (Kimchi Jjigae) | Pozole | Sopa |
+        | 夫妻肺片 (Pork Lungs in Chili Sauce) | / | Vísceras picantes |
+
+**11. Terminology Requirements:**
+    (1) All proper nouns appearing within a single drama, including names, titles, family names, business names, team names, place names, countries, cities, ranking systems, and all on-screen text, must be included in a terminology glossary. Ensure consistency throughout the entire drama, avoiding multiple names for the same referent.
+    (2) For proper nouns that appear frequently within dramas of the same genre, such as character personality tags (e.g., 白莲花 - scheming innocent, 白月光 - pure love), or cultivation ranking systems, try to establish a unified terminology database.
+    (3) Terminology translation should fit the setting and background of the plot. Avoid mixing genres (e.g., using Western fantasy terms to translate Chinese cultivation system terms).
+
+**12. Handling Sensitive Words like Swear Words:**
+    Localize these words based on the target language and cultural background. Basic methods include:
+    (1) Literal Translation: Retain the swear word, coarse language, or sensitive term, replacing it with a similar term in Spanish, ensuring the audience accepts and understands it.
+    (2) Softening: Use milder phrasing to avoid causing offense.
+    Specific handling can vary depending on the tone, plot, and degree of offensiveness.
+
+**13. Handling Character Relationships:**
+    After establishing a character relationship upon first mention, use the character's name in subsequent mentions, avoiding repetitive use of relationship titles.
+    -Example:
+    | Original | Translation 1 | Translation 2 |
+    | :--- | :--- | :--- |
+    | 姐夫，我们哪里说错了吗？ (Brother-in-law, did we say something wrong?) | Cuñado, ¿qué dijimos mal? | Luis, ¿qué dijimos mal? |
+    | 你家老三 (Your family's third child) | El tercero de tu familia | Nicolás |
+
+**14. Naming the Drama:**
+    (1) Provide 3-4 title options for each drama. Basic methods include:
+        ① Naming based on the overall plot, which may be unrelated to the original title.
+        ② Localizing the original title.
+    (2) When creating titles, strive to clearly reflect the key conflicts, emotional points, and special identity tags of the plot. Avoid translating the original title word-for-word or using overly abstract terms.
+    (3) The plot synopsis in the Word document should be kept within 480 characters (including spaces).
